@@ -234,7 +234,7 @@ npm start
 
 - **learned to resolve conflicts and errors by debugging and exploring what's going wrong.**
 - **learned to write cleaner code and learned to design REST APIs in a better way.**
-- **learned new api-testing tools apart from PostMan such as Insomnia,ThunderClient.**
+- **learned to model and manage one-to-many relationships b/w categories,subcategories & items in MongoDB.Also,explored new api-testing tools apart from PostMan such as Insomnia,ThunderClient.**
 
 ### What was the most difficult part of the assignment?
 
