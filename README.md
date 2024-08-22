@@ -1,6 +1,6 @@
 This repository contains backend code for menu management, including operations for categories, subcategories, and items. The routes and data models for Category, Subcategory, and Item were created and handled accordinly
 
-- Live link of backend deployed on vercel: 
+- Live link of backend deployed on vercel: https://menu-management-five.vercel.app/
 
 ### Tech Stack
 - **Node.js**
